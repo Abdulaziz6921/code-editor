@@ -6,12 +6,10 @@ body {
 }
 
 .app {
-  padding-top: 50%;
-  padding-bottom: 50%;
   max-width: 800px;
   padding: 20px;
   background: #fff;
-  margin: 10% auto;
+  margin: 7% auto;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
