@@ -76,6 +76,7 @@ button:hover {
   }
   .app {
     margin: auto;
+    box-shadow: none;
   }
   .select-run-container {
     flex-direction: column;
